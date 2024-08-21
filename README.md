@@ -1,7 +1,7 @@
 # Game Show Quiz
 
 ## Project Overview
-The Game Show Quiz is a console-based program that allows users to upload multiple-choice questions and corresponding answers through text files. The game randomly selects questions, presents them to the player, and tracks their score based on correct answers. The program also maintains a leaderboard, recording the highest scores.
+The Game Show Quiz is a C++ based console program developed as part of a school project. It allows users to upload multiple-choice questions and corresponding answers through text files. The game randomly selects questions, presents them to the player, and tracks their score based on correct answers. Additionally, the program maintains a leaderboard to record and display the highest scores achieved.
 
 ## Features
 - **Upload Questions and Answers**: Players can upload a text file containing questions and another with answers.
@@ -42,14 +42,12 @@ To run the game, use the following command:
 Each question should be followed by four possible answers. The format should be as follows:  
    
     What is the capital of France?  
-    
     A. Paris  
-   
     B. Berlin  
-  
     C. Rome  
-  
     D. Madrid  
+
+This program is build to handle up to 50 questions.
 
 ### answers.txt
 Each line should contain the correct answer (A, B, C, or D) corresponding to the questions in the `questions.txt` file.
