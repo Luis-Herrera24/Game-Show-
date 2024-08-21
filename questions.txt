@@ -1,0 +1,23 @@
+Arrays are passed to functions by:
+reference
+value          
+either method
+neither method
+
+Global variables should be used...?
+in place of function parameters
+only when absolutely needed
+never
+only during the full moon
+
+When storing a floating point value to an integer type variable, the fractional part? is:
+rounded up
+rounded down
+branched
+truncated
+
+Which of the following is NOT a reason for writing functions?
+modularity
+reusability
+easier testing and verification
+reduced code size
