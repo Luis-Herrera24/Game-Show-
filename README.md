@@ -1,4 +1,4 @@
-# Game Show Quiz
+# Quiz Game Show 
 
 ## Project Overview
 The Game Show Quiz is a C++ based console program developed as part of a school project. It allows users to upload multiple-choice questions and corresponding answers through text files. The game randomly selects questions, presents them to the player, and tracks their score based on correct answers. Additionally, the program maintains a leaderboard to record and display the highest scores achieved.
